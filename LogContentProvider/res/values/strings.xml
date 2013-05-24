@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Log Content Provider</string>
+    <string name="permission_group_log_data">Log Data</string>
+    <string name="permission_label_read_log_data">Read Log Data</string>
+    <string name="permission_label_write_log_data">Write Log Data</string>
+
+</resources>

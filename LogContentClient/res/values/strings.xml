@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Log Content Client</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message_no_log_entries">No log entries</string>
+
+    <string-array name="log_level_labels">
+        <item>Unsupported</item>
+        <item>Unsupported</item>
+        <item>Verbose</item>
+        <item>Debug</item>
+        <item>Info</item>
+        <item>Warning</item>
+        <item>Error</item>
+        <item>Assert</item>
+    </string-array>
+
+</resources>
